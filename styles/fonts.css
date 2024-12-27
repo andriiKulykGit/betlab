@@ -6,14 +6,14 @@
 }
 
 @font-face {
-  font-family: "Akrobat600";
+  font-family: "Akrobat";
   src: url("../assets/fonts/Akrobat-SemiBold.otf") format("opentype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Akrobat700";
+  font-family: "Akrobat";
   src: url("../assets/fonts/Akrobat-Bold.otf") format("opentype");
   font-weight: 700;
   font-style: normal;
