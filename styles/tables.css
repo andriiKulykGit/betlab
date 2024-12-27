@@ -211,6 +211,18 @@
   left: 0;
 }
 
+.match_results_list_stats {
+  font-size: 14px;
+  line-height: 150%;
+  font-family: 'Akrobat600';
+  color: #FFFFFF;
+}
+
+.match_results_list_stats_live {
+  color: #29C163;
+  font-family: 'Akrobat700';
+}
+
 .table__slider-pagination:after {
   right: 0;
   background-color: #EFEFEF;
