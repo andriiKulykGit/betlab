@@ -220,6 +220,10 @@
   background-color: var(--swiper-theme-color);
 }
 
+.mobile-only {
+  display: none;
+}
+
 @media only screen and (max-width: 850px) {
   .tables_filters {
     flex-direction: column-reverse;
@@ -270,6 +274,10 @@
   }
   .table_list_item_fixed {
     display: none;
+  }
+
+  .mobile-only {
+    display: flex;
   }
 }
 
