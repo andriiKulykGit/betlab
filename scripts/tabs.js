@@ -79,6 +79,12 @@ function initSlider() {
 			580: { slidesPerView: 2 },
 			655: { slidesPerView: 2.5 },
 			800: { slidesPerView: 3 },
+			900: { slidesPerView: 3.5 },
+			1000: { slidesPerView: 4 },
+			1100: { slidesPerView: 4.5 },
+			1200: { slidesPerView: 5 },
+			1300: { slidesPerView: 5.5 },
+			1386: { slidesPerView: 6 },
 		},
 	});
 

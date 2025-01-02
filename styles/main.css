@@ -87,8 +87,8 @@ button {
 .tab_contents {
   margin-inline: auto;
   width: 100%;
-  padding-inline: 10px;
-  max-width: calc(880px - calc(.5% / 2));
+  padding-inline: 13px;
+  max-width: calc(1562px + calc(13px * 2));
 }
 
 .table__slider-pagination.swiper-pagination-progressbar {
