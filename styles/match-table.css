@@ -162,7 +162,7 @@
   margin-bottom: 5px;
 }
 .match_results_top_time_minutes h5 {
-  color: rgb(229, 29, 29);
+  color: #29C163;
   font-size: 13px;
   font-weight: 700;
   line-height: 16px;
@@ -171,8 +171,7 @@
 }
 
 .match_results_top_time p {
-  color: rgb(229, 29, 29);
-
+  color: #29C163;
   font-size: 10px;
   font-weight: 500;
   line-height: 150%;
