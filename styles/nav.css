@@ -26,9 +26,8 @@ nav {
 
 .nav_menu p {
   color: rgb(37, 46, 53);
-  font-family: Akrobat600;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 150%;
   letter-spacing: 0%;
   text-align: left;
@@ -103,7 +102,6 @@ nav {
 
 .nav_balance span {
   color: rgb(54, 120, 72);
-  font-family: Akrobat700;
   font-size: 14px;
   font-weight: 700;
   line-height: 150%;
@@ -145,7 +143,7 @@ nav {
 }
 .nav_mob_user_balance p {
   color: rgb(37, 46, 53);
-  font-family: Akrobat700;
+  font-weight: 700;
   font-size: 14px;
   font-weight: 700;
   line-height: 130%;

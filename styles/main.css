@@ -6,102 +6,98 @@
 @import url(./tables.css);
 
 :root {
-  --swiper-theme-color: #ffb80c;
+	--swiper-theme-color: #ffb80c;
 }
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Akrobat;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Roboto",  sans-serif;
 }
 
 a {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 button {
-  cursor: pointer;
-  border: none;
-  transition: all 0.4s ease;
+	cursor: pointer;
+	border: none;
+	transition: all 0.4s ease;
 }
 .main_wrapper {
-  width: 100%;
-  display: flex;
-  align-items: start;
-  overflow: hidden;
+	width: 100%;
+	display: flex;
+	align-items: start;
+	overflow: hidden;
 }
 
 .main_btn {
-  box-sizing: border-box;
-  /* yellow_main */
-  border: 1px solid rgb(255, 184, 12);
-  border-radius: 5px;
+	box-sizing: border-box;
+	/* yellow_main */
+	border: 1px solid rgb(255, 184, 12);
+	border-radius: 5px;
 
-  /* yellow_main2 */
-  background: rgb(255, 219, 132);
-  padding: 10px 30px;
-  color: rgb(37, 46, 53);
-  font-family: Akrobat700;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 150%;
-  letter-spacing: 0%;
-  text-align: left;
-  text-transform: uppercase;
+	/* yellow_main2 */
+	background: rgb(255, 219, 132);
+	padding: 10px 30px;
+	color: rgb(37, 46, 53);
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 150%;
+	letter-spacing: 0%;
+	text-align: left;
+	text-transform: uppercase;
 }
 
 .page_content {
-  width: 100%;
-  background: rgb(250, 250, 250);
-  min-height: 100vh;
+	width: 100%;
+	background: rgb(250, 250, 250);
+	min-height: 100vh;
 }
 .page_content_wrapper {
-  padding-left: 62px;
-  width: 100%;
+	padding-left: 62px;
+	width: 100%;
 }
 
 .content {
-  padding: 40px 30px;
+	padding: 40px 30px;
 }
 
 .hidden {
-  display: none;
+	display: none;
 }
 
 .tab_content {
-  display: none;
-  padding-bottom: 48px;
+	display: none;
+	padding-bottom: 48px;
 }
 .active_content {
-  display: block;
+	display: block;
 }
 
 .header-wrapper {
-  width: 100%;
+	width: 100%;
 }
 
 .tab_contents {
-  margin-inline: auto;
-  width: 100%;
-  padding-inline: 13px;
-  max-width: calc(1562px + calc(13px * 2));
+	margin-inline: auto;
+	width: 100%;
+	padding-inline: 13px;
+	max-width: calc(1562px + calc(13px * 2));
 }
 
 .table__slider-pagination.swiper-pagination-progressbar {
-  background-color: #EFEFEF;
-  top: calc(100% + 20px);
+	background-color: #efefef;
+	top: calc(100% + 20px);
 }
 
 @media only screen and (max-width: 720px) {
-  .page_content_wrapper {
-    padding-left: 0;
-  }
-  .content {
-    padding: 0;
-    padding-bottom: 40px;
-  }
+	.page_content_wrapper {
+		padding-left: 0;
+	}
+	.content {
+		padding: 0;
+		padding-bottom: 40px;
+	}
 }

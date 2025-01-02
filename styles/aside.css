@@ -44,7 +44,7 @@
 
 .left_card_chart_item_title p {
   color: rgb(37, 46, 53);
-  font-family: Akrobat;
+
   font-size: 12px;
   font-weight: 500;
   line-height: 150%;
@@ -62,7 +62,6 @@
 
 .left_card_chart_item_wrapper p {
   color: rgb(37, 46, 53);
-  font-family: Akrobat700;
   font-size: 12px;
   font-weight: 700;
   line-height: 150%;

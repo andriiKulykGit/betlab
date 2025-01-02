@@ -61,7 +61,6 @@
 }
 .match_table_command h2 {
   color: rgb(255, 255, 255);
-  font-family: Akrobat700;
   margin-bottom: 12px;
   font-size: 16px;
   font-weight: 700;
@@ -149,7 +148,6 @@
 }
 .match_results_top h3 {
   color: rgb(255, 255, 255);
-  font-family: Akrobat700;
   font-size: 52px;
   font-weight: 700;
   line-height: 62px;
@@ -165,7 +163,6 @@
 }
 .match_results_top_time_minutes h5 {
   color: rgb(229, 29, 29);
-  font-family: Akrobat700;
   font-size: 13px;
   font-weight: 700;
   line-height: 16px;
@@ -243,7 +240,6 @@
 }
 .match_results_btm_item div span {
   color: rgb(255, 255, 255);
-  font-family: Akrobat700;
   font-size: 12px;
   font-weight: 700;
   line-height: 150%;
@@ -275,7 +271,7 @@
 }
 .match_results_list_item p {
   color: rgb(255, 255, 255);
-  font-family: Akrobat;
+
   font-size: 13px;
   font-weight: 500;
   line-height: 16px;
@@ -294,7 +290,7 @@
   height: 46px;
   background: transparent;
   color: rgb(255, 255, 255);
-  font-family: Akrobat;
+
   font-size: 13px;
   font-weight: 500;
   line-height: 16px;
@@ -326,7 +322,7 @@
     opacity: 0.5;
   }
   .match_table_top p {
-    font-family: Akrobat;
+
     font-size: 12px;
     font-weight: 500;
     line-height: 150%;
@@ -397,7 +393,6 @@
   }
   .mob_results_score p {
     color: rgb(255, 255, 255);
-    font-family: Akrobat700;
     font-size: 40px;
     font-weight: 700;
     line-height: 48px;

@@ -1,20 +1,21 @@
 @font-face {
-  font-family: "Akrobat";
-  src: url("../assets/fonts/Akrobat-Regular.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal;
+	font-family: "Roboto";
+	font-display: swap;
+	font-style: normal;
+	font-weight: 400;
+	src: url("../assets/fonts/roboto-400.woff2") format("woff2");
 }
-
 @font-face {
-  font-family: "Akrobat600";
-  src: url("../assets/fonts/Akrobat-SemiBold.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal;
+	font-family: "Roboto";
+	font-display: swap;
+	font-style: normal;
+	font-weight: 500;
+	src: url("../assets/fonts/roboto-500.woff2") format("woff2");
 }
-
 @font-face {
-  font-family: "Akrobat700";
-  src: url("../assets/fonts/Akrobat-Bold.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal;
+	font-family: "Roboto";
+	font-display: swap;
+	font-style: normal;
+	font-weight: 700;
+	src: url("../assets/fonts/roboto-700.woff2") format("woff2");
 }

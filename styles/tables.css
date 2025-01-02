@@ -30,7 +30,7 @@
   padding: 0 15px;
   background: transparent;
   color: rgb(117, 123, 129);
-  font-family: Akrobat;
+
   font-size: 13px;
   font-weight: 500;
   line-height: 16px;
@@ -73,9 +73,8 @@
 
 .table_list_item_title p {
   color: rgb(37, 46, 53);
-  font-family: Akrobat600;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 19px;
   letter-spacing: 2%;
   text-align: center;
@@ -104,9 +103,8 @@
 
 .table_list_item_content_title p {
   color: rgb(117, 123, 129);
-  font-family: Akrobat600;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 14px;
   letter-spacing: 2%;
   text-align: center;
@@ -131,9 +129,8 @@
 }
 
 .table_list_item_data_list_item p {
-  font-family: Akrobat600;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 16px;
   letter-spacing: 2%;
   text-align: center;
@@ -214,13 +211,13 @@
 .match_results_list_stats {
   font-size: 14px;
   line-height: 150%;
-  font-family: 'Akrobat600';
+  font-weight: 500;
   color: #FFFFFF;
 }
 
 .match_results_list_stats_live {
   color: #29C163;
-  font-family: 'Akrobat700';
+  font-weight: 700;
 }
 
 .table__slider-pagination:after {
