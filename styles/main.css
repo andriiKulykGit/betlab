@@ -101,3 +101,9 @@ button {
 		padding-bottom: 40px;
 	}
 }
+
+.minutes-dot {
+  animation: ballanimation;
+  animation-duration: 0.7s;
+  animation-iteration-count: infinite;
+}
