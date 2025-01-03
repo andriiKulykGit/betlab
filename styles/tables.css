@@ -279,7 +279,12 @@
 
 @media only screen and (max-width: 479px) {
   .match_results_btm {
-    padding: 8px;
+    gap: 8px 16px;
+  }
+
+  .match_results_btm_item div span,
+  .match_results_btm_item p {
+    font-size: 11px;
   }
   .table_list_item_fixed {
     display: none;
