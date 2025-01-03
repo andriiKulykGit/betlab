@@ -13,7 +13,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Roboto",  sans-serif;
+	font-family: "Roboto", sans-serif;
 }
 
 a {
@@ -103,7 +103,34 @@ button {
 }
 
 .minutes-dot {
-  animation: ballanimation;
-  animation-duration: 0.7s;
-  animation-iteration-count: infinite;
+	animation: ballanimation;
+	animation-duration: 0.7s;
+	animation-iteration-count: infinite;
+}
+
+.footer__nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: stretch;
+	gap: 20px 48px;
+}
+
+.footer__list {
+	display: flex;
+	flex-direction: column;
+	gap: 20px 0;
+}
+
+
+.footer__list-link {
+	font-style: normal;
+	font-size: 14px;
+	line-height: 115%;
+	color: #fff;
+}
+
+@media only screen and (max-width: 576px) {
+	.footer__nav {
+		flex-direction: column;
+	}
 }
